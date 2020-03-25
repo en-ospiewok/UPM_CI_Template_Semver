@@ -1,0 +1,16 @@
+{
+    "name": "com.ospiewok.upm-ci-template.Editor",
+    "references": [
+        "com.ospiewok.upm-ci-template"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

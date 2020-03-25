@@ -1,0 +1,21 @@
+{
+  "name": "com.ospiewok.upm-ci-template",
+  "description": "This is a template package",
+  "version": "0.0.1",  
+  "unity": "2019.1",
+  "author": "Olaf Spiewok",
+  "keywords": [
+      "template",
+      "upm"
+  ],
+  "dependencies": {
+    "com.unity.test-framework": "1.1.11"
+  },
+  "samples": [
+    {
+      "displayName": "SampleScene1",
+      "description": "Description of Sample 1",
+      "path": "Samples~/Sample1"
+    }
+  ]
+}
