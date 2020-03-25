@@ -1,0 +1,19 @@
+{
+    "name": "com.ospiewok.upm-ci-template.Editor.Tests",
+    "references": [
+        "com.ospiewok.upm-ci-template.Editor",
+        "com.ospiewok.upm-ci-template"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

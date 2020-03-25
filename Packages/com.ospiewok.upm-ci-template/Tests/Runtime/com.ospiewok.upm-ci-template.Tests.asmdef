@@ -1,0 +1,16 @@
+{
+    "name": "com.ospiewok.upm-ci-template.Tests",
+    "references": [
+        "com.ospiewok.upm-ci-template"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
