@@ -6,7 +6,7 @@ namespace UpmTestExample.Local
     {
         void Start() 
         {
-            Debug.Log("Hello World 2");
+            Debug.Log("Hello World");
         }
     }
 }
